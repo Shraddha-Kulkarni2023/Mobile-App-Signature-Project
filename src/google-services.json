@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93936273899",
+    "project_id": "sigproj-3dc50",
+    "storage_bucket": "sigproj-3dc50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93936273899:android:f78b384725fda246d7f1ae",
+        "android_client_info": {
+          "package_name": "com.example.sigproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DQkIY1n2o56L6z7XPaOo9j5gSYRvNqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
